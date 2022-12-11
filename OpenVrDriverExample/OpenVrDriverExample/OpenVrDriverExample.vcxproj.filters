@@ -51,6 +51,7 @@
     <None Include="resources\game_controller.svg" />
     <None Include="resources\legacy_bindings_example.json" />
     <None Include="resources\driver.vrdrivermanifest" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Library Include="lib\openvr_api.lib" />

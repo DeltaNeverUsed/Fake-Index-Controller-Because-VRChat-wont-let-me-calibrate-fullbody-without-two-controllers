@@ -12,7 +12,6 @@ EVRInitError DeviceProvider::Init(IVRDriverContext* pDriverContext)
 
     controllerDriver = new ControllerDriver();
     VRServerDriverHost()->TrackedDeviceAdded("example_controller", TrackedDeviceClass_Controller, controllerDriver); //add all your devices like this.
-
     return vr::VRInitError_None;
 }
 
@@ -33,7 +32,7 @@ void DeviceProvider::RunFrame()
 
 bool DeviceProvider::ShouldBlockStandbyMode()
 {
-    return false;
+    return true;
 }
 
 void DeviceProvider::EnterStandby() {}
