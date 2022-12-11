@@ -5,7 +5,7 @@ If you want to use this for your right hand you'll have to recompile it yourself
 you'd probably also want to change the controls in the [RunFrame()](https://github.com/DeltaNeverUsed/Fake-Index-Controller-Because-VRChat-wont-let-me-calibrate-fullbody-without-two-controllers/blob/59a9064e698f77175c83e846c99940ea4e5c20bc/OpenVrDriverExample/OpenVrDriverExample/src/ControllerDriver.cpp#L290) function.
 
 # Controls by default
-[Controls image](/Images/controller.png)
+![Controls image](/Images/controller.png)
 
 # Installation
 1. Download the [latest release](https://github.com/DeltaNeverUsed/Fake-Index-Controller-Because-VRChat-wont-let-me-calibrate-fullbody-without-two-controllers/releases/latest) from the releases tab
