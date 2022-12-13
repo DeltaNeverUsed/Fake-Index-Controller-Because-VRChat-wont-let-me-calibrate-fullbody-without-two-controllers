@@ -20,7 +20,7 @@ you'd probably also want to change the controls in the [RunFrame()](https://gith
 # Why is VRChat like this
 IK 2.0 was supposed to support pretty much any configuration of trackers, for gods sake you can track just your left foot or elbow if you want, but you aren't allowed to track anything if you don't have two controllers. Why? this is such a stupid limitation that makes no sense.
 
-The quality control of the index controllers and the headset are absolutely atrous,
+The quality control of the index controllers and the headset are absolutely atrocious,
 and it kind of sucks not being able to use any of the expense vive pucks, tundra trackers, or whatever you have whenever the index decides to break randomly for no reason.
 
 Dear Valve and VRChat, please fix.
